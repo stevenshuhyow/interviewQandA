@@ -1,0 +1,35 @@
+General Questions:
+
+What did you learn yesterday/this week?
+
+What excites or interests you about coding?
+
+Coding is very interesting because there’s a lot to know.  I feel the thing that makes me like coding the most is that a lot of code is open sourced which allows people to learn how to things are made.
+
+What is a recent technical challenge you experienced and how did you solve it?
+
+A recent technical challenge I’ve experience was trying to gain access to join tables in a many to many relationship.  I solved it by accessing the join table through the new methods that were created when the join table was created.
+
+• What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+UI stands for user interface.
+Security is how well kept information is stored
+SEO stands for search engine optimization.  SEO is a marketing discipline focused on growing visibility in organic (non-paid) search engine results. SEO encompasses both the technical and creative elements required to improve rankings, drive traffic, and increase awareness in search engines. There are many aspects to SEO, from the words on your page to the way other sites link to you on the web. Sometimes SEO is simply a matter of making sure your site is structured in a way that search engines understand.
+• Talk about your preferred development environment.
+I like to have quick access to my team.  I’ve learned that working remotely is very hard because people like to work at different hours and depends on others for code.
+• Which version control systems are you familiar with?
+Github
+• Can you describe your workflow when you create a web page?
+Yes.  When before you make a merge request to the repo, you must first rebase all of the changes to make sure your changes don’t conflict with that of the repo.  After you sort out all of the merge conflicts, you can send a merge request
+• If you have 5 different stylesheets, how would you best integrate them into the site?
+• Can you describe the difference between progressive enhancement and graceful degradation?
+• How would you optimize a website's assets/resources?
+• How many resources will a browser download from a given domain at a time?
+o What are the exceptions?
+• Name 3 ways to decrease page load (perceived or actual load time).
+• If you jumped on a project and they used tabs and you used spaces, what would you do?
+• Describe how you would create a simple slideshow page.
+• If you could master one technology this year, what would it be?
+• Explain the importance of standards and standards bodies.
+• What is Flash of Unstyled Content? How do you avoid FOUC?
+• Explain what ARIA and screenreaders are, and how to make a website accessible.
+• Explain some of the pros and cons for CSS animations versus JavaScript animations.

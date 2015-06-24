@@ -1,0 +1,17 @@
+Fun Questions:
+• What's a cool project that you've recently worked on?
+• What are some things you like about the developer tools you use?
+• Do you have any pet projects? What kind?
+• What's your favorite feature of Internet Explorer?
+• How do you like your coffee?
+
+
+•  for and what issue does it address?
+
+•
+• Ajax - "Asynchronous Javascript and XML". Ajax loosely defines a set of technologies to help make web applications present a richer user experience. Data updating and refreshing of the screen is done asynchronously using javascript and xml (or json or just a normal http post).
+• JSON - "Javascript Object Notation". JSON is like xml in that it can be used to describe objects, but it's more compact and has the advantage of being actual javascript. An object expressed in JSON can be converted into an actual object to be manipulated in javascript code.
+• By default, Ajax requests have to occur in the same domain of the page where the request originates. JSONP - "JSON with padding" - was created to allow you to request JSON resources from a different domain. (CORS is a newer and better alternative to JSONP.)
+• REST - "Representational State Transfer". Applications using REST principles have a Url structure and a request/response pattern that revolve around the use of resources. In a pure model, the HTTP Verbs Get, Post, Put and Delete are used to retrieve, create, update and delete resources respectively. Put and Delete are often not used, leaving Get and Post to map to select (GET) and create, update and delete (POST)
+
+Hoisting:
